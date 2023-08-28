@@ -1,0 +1,34 @@
+.btn-primary ,.btn-primary:hover,.btn.btn-primary:active{
+background-color: #F50103;
+border-color: #F50103 ;
+}
+.My_Services,.portfolio,.What-Prople-Say,.Newsletter,
+.hero,.navbar{
+    background: #000000;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: #F55529;
+    padding: 8px 20px ;
+}
+.hero-text h1{
+    font-size: 50px;
+
+}
+.content span,
+.hero-text h1 span{
+    color: #F50103;
+
+}
+.social-media {
+background-color: #F50103;
+}
+.Our-Trusted-Clients,
+.problem-solving{background: #181818;}
+.problem-solving.Course-details a {color: black;}
+
+.Newsletter .form-control{
+    background: #000000;
+}
+.problem-solving a{
+    color: #5A5A5A;
+}
